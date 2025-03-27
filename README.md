@@ -6,7 +6,7 @@ Cisco IOS configuration analyzer for finding misconfigurations and vulnerabiliti
 
 ```
 Nihilist: Cisco IOS Security Inspector
-Author: Magama Bazarov, <caster@exploit.org>
+Author: Magama Bazarov, <magamabazarov@mailbox.org>
 Alias: Caster
 Version: 1.0
 Codename: Gestalt
@@ -110,4 +110,4 @@ With the release of this tool I just want to make the world a little better. Use
 
 When I wrote this tool, I was inspired by the works of Friedrich Nietzsche and the release of this tool is my tribute to his writings.
 
-E-mail for contact: caster@exploit.org
+E-mail for contact: magamabazarov@mailbox.org

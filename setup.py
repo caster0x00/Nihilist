@@ -5,7 +5,7 @@ setup(
     version="1.0",
     url="https://github.com/casterbyte/Nihilist",
     author="Magama Bazarov",
-    author_email="caster@exploit.org",
+    author_email="magamabazarov@mailbox.org",
     description="Cisco IOS Security Inspector",
     long_description=open('README.md', encoding="utf8").read(),
     long_description_content_type='text/markdown',

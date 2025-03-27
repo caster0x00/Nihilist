@@ -22,7 +22,7 @@ def banner():
     banner_text = "    " + banner_text.replace("\n", "\n    ")
     print(banner_text)
     print("    " + Fore.YELLOW + "Nihilist: Cisco IOS Security Inspector" + Style.RESET_ALL)
-    print("    " + Fore.YELLOW + "Author: " + Style.RESET_ALL + "Magama Bazarov, <caster@exploit.org>")
+    print("    " + Fore.YELLOW + "Author: " + Style.RESET_ALL + "Magama Bazarov, <magamabazarov@mailbox.org>")
     print("    " + Fore.YELLOW + "Alias: " + Style.RESET_ALL + "Caster")
     print("    " + Fore.YELLOW + "Version: " + Style.RESET_ALL + "1.0")
     print("    " + Fore.YELLOW + "Codename: " + Style.RESET_ALL + "Gestalt")
