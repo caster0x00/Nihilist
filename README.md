@@ -36,7 +36,7 @@ Nihilist does not use any exploits, malicious payloads or brute-force attacks. A
 
 # Nihilist Demo
 
-![](/visuals/nihilist.gif)
+![](/visuals/nihilist_demo.gif)
 
 > Here is a demo of a Nihilist doing a security analysis of a Cisco router
 
