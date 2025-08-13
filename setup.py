@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name="nihilist",
     version="1.0",
-    url="https://github.com/casterbyte/Nihilist",
+    url="https://github.com/caster0x00/Nihilist",
     author="Magama Bazarov",
     author_email="magamabazarov@mailbox.org",
     description="Cisco IOS Security Inspector",

@@ -25,9 +25,8 @@ def banner():
     print("    " + Fore.YELLOW + "Author: " + Style.RESET_ALL + "Magama Bazarov, <magamabazarov@mailbox.org>")
     print("    " + Fore.YELLOW + "Alias: " + Style.RESET_ALL + "Caster")
     print("    " + Fore.YELLOW + "Version: " + Style.RESET_ALL + "1.0")
-    print("    " + Fore.YELLOW + "Codename: " + Style.RESET_ALL + "Gestalt")
-    print("    " + Fore.YELLOW + "How to Use: " + Style.RESET_ALL + "https://github.com/casterbyte/Nihilist")
-    print("    " + Fore.YELLOW + "Detailed Documentation: " + Style.RESET_ALL + "https://github.com/casterbyte/Nihilist/wiki/Mechanism-of-the-tool\n")
+    print("    " + Fore.YELLOW + "How to Use: " + Style.RESET_ALL + "https://github.com/caster0x00/Nihilist")
+    print("    " + Fore.YELLOW + "Detailed Documentation: " + Style.RESET_ALL + "https://github.com/caster0x00/Nihilist/wiki/Mechanism-of-the-tool\n")
     print("    " + Fore.MAGENTA + "❝He who fights with monsters should look to it that he himself does not become a monster❞")
     print("    " + Fore.MAGENTA + "— Friedrich Nietzsche, 1886\n" + Style.RESET_ALL)
 

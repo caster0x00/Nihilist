@@ -9,7 +9,6 @@ Nihilist: Cisco IOS Security Inspector
 Author: Magama Bazarov, <magamabazarov@mailbox.org>
 Alias: Caster
 Version: 1.0
-Codename: Gestalt
 ```
 
 # Disclaimer
@@ -44,7 +43,7 @@ Nihilist does not use any exploits, malicious payloads or brute-force attacks. A
 
 Nihilist performs a comprehensive security analysis, covering IOS security, link layer security, routing protocols, and redundancy protocols. It also supports router and L2/L3 switch analysis.
 
-For more details and usage, check out the [dedicated page on the Wiki of this repository](https://github.com/casterbyte/Nihilist/wiki/Mechanism-of-the-tool)
+For more details and usage, check out the [dedicated page on the Wiki of this repository](https://github.com/caster0x00/Nihilist/wiki/Mechanism-of-the-tool)
 
 # How to Use
 
@@ -52,7 +51,7 @@ To install the Nihilist:
 
 ```bash
 :~$ sudo apt install git python3-colorama python3-netmiko
-:~$ git clone https://github.com/casterbyte/Nihilist
+:~$ git clone https://github.com/caster0x00/Nihilist
 :~$ cd Nihilist
 :~/Nihilist$ sudo python3 setup.py install
 :~$ nihilist --help
