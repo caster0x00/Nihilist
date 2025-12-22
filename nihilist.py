@@ -1,4 +1,4 @@
-# Copyright (c) 2025 Mahama Bazarov
+# Copyright (c) 2025 Magama Bazarov
 # Licensed under the Apache 2.0 License
 # This project is not affiliated with or endorsed by Cisco Systems, Inc.
 
@@ -22,7 +22,7 @@ def banner():
     banner_text = "    " + banner_text.replace("\n", "\n    ")
     print(banner_text)
     print("    " + Fore.YELLOW + "Nihilist: Cisco IOS Security Inspector" + Style.RESET_ALL)
-    print("    " + Fore.YELLOW + "Author: " + Style.RESET_ALL + "Mahama Bazarov, <mahamabazarov@mailbox.org>")
+    print("    " + Fore.YELLOW + "Author: " + Style.RESET_ALL + "Magama Bazarov, <magamabazarov@mailbox.org>")
     print("    " + Fore.YELLOW + "Alias: " + Style.RESET_ALL + "Caster")
     print("    " + Fore.YELLOW + "Version: " + Style.RESET_ALL + "1.0")
     print("    " + Fore.YELLOW + "How to Use: " + Style.RESET_ALL + "https://github.com/caster0x00/Nihilist")
