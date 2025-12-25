@@ -6,7 +6,7 @@ Cisco IOS configuration analyzer for finding misconfigurations and vulnerabiliti
 
 ```
 Nihilist: Cisco IOS Security Inspector
-Author: Magama Bazarov, <magamabazarov@mailbox.org>
+Author: Mahama Bazarov, <mahamabazarov@mailbox.org>
 Alias: Caster
 Version: 1.0
 ```
@@ -98,7 +98,7 @@ When I developed Nihilist I tested it successfully on the following devices:
 
 # Copyright
 
-Copyright (c) 2025 Magama Bazarov. This project is licensed under the Apache 2.0 License
+Copyright (c) 2025 Mahama Bazarov. This project is licensed under the Apache 2.0 License
 
 This project is not affiliated with or endorsed by Cisco Systems, Inc.
 
@@ -109,4 +109,4 @@ With the release of this tool I just want to make the world a little better. Use
 
 When I wrote this tool, I was inspired by the works of Friedrich Nietzsche and the release of this tool is my tribute to his writings.
 
-E-mail for contact: magamabazarov@mailbox.org
+E-mail for contact: mahamabazarov@mailbox.org
