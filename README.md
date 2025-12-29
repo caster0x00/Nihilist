@@ -1,4 +1,4 @@
-# Nihilist
+# Nihilist: Cisco IOS Security Inspector
 
 Cisco IOS configuration analyzer for finding misconfigurations and vulnerabilities
 
